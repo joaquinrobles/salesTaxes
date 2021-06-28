@@ -41,3 +41,5 @@ Write an application that prints out the receipt details for these shopping bask
     1 imported box of chocolates: 11.85
     Sales Taxes: 6.70
     Total: 74.68
+## Notes
+    In com.lastminute.ReceiptTaxCalculatorIntegrationTest we can test all the required outputs for the inputs. There's no mock in this test, all others test are unit tests.
